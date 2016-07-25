@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.boundary</groupId>
+  <artifactId>fasttuple-core</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <lastUpdated>20150311233050</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1</value>
+        <updated>20150311233050</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1</value>
+        <updated>20150311233050</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
