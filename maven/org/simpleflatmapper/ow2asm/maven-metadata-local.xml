@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.simpleflatmapper</groupId>
+  <artifactId>ow2asm</artifactId>
+  <versioning>
+    <release>6.0_ALPHA</release>
+    <versions>
+      <version>6.0_ALPHA</version>
+      <version>5_1</version>
+    </versions>
+    <lastUpdated>20171117211502</lastUpdated>
+  </versioning>
+</metadata>
