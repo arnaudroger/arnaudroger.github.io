@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 01 21:12:11 IST 2019
+flatten-maven-plugin-1.2.0-arnaudroger.jar>=
+flatten-maven-plugin-1.2.0-arnaudroger.pom>=
